@@ -41,7 +41,7 @@
 
 📧 **E-mail**: [jefpsousa@gmail.com](mailto:jefpsousa@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/jefpsousa](https://www.linkedin.com/in/jefpsousa/)  
-📝 **Medium** (em construção): [medium.com/@jeffersonroque](https://medium.com/@jefpsousa)  
+📝 **Medium** (em construção): [medium.com/@jefpsousa](https://medium.com/@jefpsousa)  
 🌍 **Portfólio** (em construção): [Vercel](https://vercel.com)  
 
 ---
