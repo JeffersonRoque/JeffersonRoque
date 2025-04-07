@@ -18,25 +18,25 @@
 
 <p align="left">
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="Vue.js" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="Vue.js" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="28" />
+    <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="32" />
   </a>
 </p>
 
