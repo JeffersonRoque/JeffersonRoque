@@ -16,13 +16,29 @@
 
 💡 Atualmente estudando e aplicando:  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" height="28" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="Vue.js" height="28" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" height="28" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" height="28" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="28" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="28" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="28" />
+  </a>
+</p>
 
 ---
 
