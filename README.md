@@ -38,6 +38,9 @@
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="32" />
   </a>
+   <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="32" />
+  </a>
 </p>
 
 ---
@@ -46,8 +49,11 @@
 
 💡 Como estou aprendendo, meus projetos são focados na prática e no estudo:  
 
-📌 [**Roque-Delivery**](https://github.com/JeffersonRoque/Roque-Delivery) → Desenvolvendo um sistema de entregas 🚚  
-📌 Outros pequenos projetos para treinar APIs, Banco de Dados e Frontend  
+📌 [**Roque-Delivery**](https://github.com/JeffersonRoque/Roque-Delivery) → Desenvolvendo um sistema de entregas 🚚 
+📌 Agente de IA para RH/DP → Automação de triagem de currículos, FAQs e suporte a processos de recrutamento 🤖
+📌 Sistema de Ponto Eletrônico → Projeto para controle de jornada e gestão de frequência ⏱️
+📌 Outros projetos voltados para automação de processos em RH e DP, como gestão de benefícios e integração de novos colaboradores
+📌 Pequenos projetos para treinar APIs, Banco de Dados e Frontend
 
 🔧 *Sempre buscando novos desafios para aprender mais!*  
 
