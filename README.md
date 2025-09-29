@@ -37,7 +37,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="32" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="32" />
   </a>
